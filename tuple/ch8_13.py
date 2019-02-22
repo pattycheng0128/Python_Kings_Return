@@ -1,0 +1,5 @@
+drinks = ("coffee", "tea", "wine")
+enumerate_drinks = enumerate(drinks)
+print("轉成元組輸出，預設值是0", tuple(enumerate_drinks))
+enumerate_drinks = enumerate(drinks, 10)
+print("修改初始值為10", tuple(enumerate_drinks))

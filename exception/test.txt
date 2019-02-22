@@ -1,0 +1,18 @@
+Hello world~~~~
+Hello world~~~~
+Hello world~~~~
+Hello world~~~~
+Hello world~~~~
+Hello world~~~~
+Hello world~~~~Hello world~~~~Traceback (most recent call last):
+  File "D:/程式相關課程/Python課程/Python王者歸來/src/exception/ch15_16.py", line 13, in <module>
+    passWord(password)
+  File "D:/程式相關課程/Python課程/Python王者歸來/src/exception/ch15_16.py", line 6, in passWord
+    raise Exception("密碼長度不足")
+Exception: 密碼長度不足
+Traceback (most recent call last):
+  File "D:/程式相關課程/Python課程/Python王者歸來/src/exception/ch15_16.py", line 13, in <module>
+    passWord(password)
+  File "D:/程式相關課程/Python課程/Python王者歸來/src/exception/ch15_16.py", line 8, in passWord
+    raise Exception("密碼長度太長")
+Exception: 密碼長度太長

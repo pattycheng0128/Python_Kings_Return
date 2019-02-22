@@ -1,0 +1,1 @@
+print("module name:",__name__)

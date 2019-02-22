@@ -1,0 +1,5 @@
+name = input("請輸入姓名:")
+english = input("請輸入英文成績:")
+math = input("請輸入數學成績:")
+total = int(english) + int(math)
+print("%s 你的總分是%d" % (name, total))
